@@ -1,5 +1,6 @@
 export const site = {
     "domain":  "carroattrezzinapoli24.it",
+    "template":  "keynote",
     "description":  "Carroattrezzi a Napoli e soccorso stradale a Napoli: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
     "tel":  "+390811804692",
     "city":  "Napoli",

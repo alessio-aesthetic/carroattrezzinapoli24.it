@@ -112,8 +112,8 @@ export const zones = [
         "slug":  "nola"
     },
     {
-        "title":  "Carroattrezzi a Pomigliano dâ€™Arco",
-        "name":  "Pomigliano dâ€™Arco",
+        "title":  "Carroattrezzi a Pomigliano d’Arco",
+        "name":  "Pomigliano d’Arco",
         "slug":  "pomigliano-darco"
     }
 ] as const
@@ -121,14 +121,14 @@ export const zones = [
 export const faqs = [
     {
         "question":  "Quanto costa un carroattrezzi a ",
-        "answer":  "Il costo dipende da posizione, tipo di veicolo, condizioni del recupero, distanza e destinazione. Prima di partire raccogliamo i dati essenziali per darti unâ€™indicazione chiara."
+        "answer":  "Il costo dipende da posizione, tipo di veicolo, condizioni del recupero, distanza e destinazione. Prima di partire raccogliamo i dati essenziali per darti un’indicazione chiara."
     },
     {
         "question":  "Fate soccorso stradale a Napoli e provincia?",
         "answer":  "Sì, organizziamo interventi in città, nelle zone industriali, sulle strade provinciali e nei comuni vicini, valutando accessi e caratteristiche del mezzo."
     },
     {
-        "question":  "Posso scegliere dove portare lâ€™auto?",
+        "question":  "Posso scegliere dove portare l’auto?",
         "answer":  "Sì. Puoi indicare officina, carrozzeria, deposito, abitazione o un altro indirizzo concordato prima del recupero."
     },
     {

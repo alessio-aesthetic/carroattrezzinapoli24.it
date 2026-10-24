@@ -10,8 +10,9 @@ export function generateStaticParams() { return items.map((item) => ({ slug: ite
 export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
   const item = items.find((entry) => entry.slug === params.slug)
   if (!item) return {}
-  const title = `${item.title} a ${site.city}`
-  return { title: { absolute: title }, description: `${title}: recupero e assistenza organizzati con indicazioni chiare e destinazione concordata.`, alternates: { canonical: `/servizi/${item.slug}/` } }
+  const title = `${item.title} a ${site.city} | Carroattrezzi Napoli`
+  const description = `${item.title} a Napoli: ${item.text ?? "recupero e assistenza veicoli."} Chiama ${site.phone}.`
+  return { title: { absolute: title }, description, alternates: { canonical: `/servizi/${item.slug}/` }, openGraph: { title, description, url: `/servizi/${item.slug}/`, images: [{url: `/images/services/${item.slug}.jpg`}] } }
 }
 
 export default function ServicePage({ params }: { params: { slug: string } }) {

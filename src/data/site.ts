@@ -5,7 +5,7 @@ export const site = {
     "tel":  "+390811804692",
     "city":  "Napoli",
     "name":  "Carroattrezzi Napoli",
-    "address":  "Via Otranto, 23, 80143 Napoli NA",
+    "address":  "Via Professor Filippo Manna, 7, 80013 Casalnuovo di Napoli NA",
     "title":  "Carroattrezzi a Napoli 24H | Soccorso stradale",
     "phone":  "081 180 4692",
     "email":  "assistenza@carroattrezzinapoli24.it"

@@ -1,13 +1,13 @@
 export const site = {
     "domain":  "carroattrezzinapoli24.it",
     "template":  "keynote",
-    "description":  "Carroattrezzi a Napoli e soccorso stradale H24: traino auto, recupero moto e veicoli in panne. Chiama 081 180 4692 per disponibilità e preventivo.",
-    "tel":  "+390811804692",
+    "description":  "Carroattrezzi a Napoli e soccorso stradale H24: traino auto, recupero moto e veicoli in panne. Chiama 081 1946 9839 per disponibilità e preventivo.",
+    "tel":  "+3908119469839",
     "city":  "Napoli",
     "name":  "Carroattrezzi Napoli",
     "address":  "Via Professor Filippo Manna, 7, 80013 Casalnuovo di Napoli NA",
     "title":  "Carroattrezzi a Napoli H24 | Soccorso stradale a Napoli",
-    "phone":  "081 180 4692",
+    "phone":  "081 1946 9839",
     "email":  "assistenza@carroattrezzinapoli24.it"
 } as const
 
@@ -122,7 +122,7 @@ export const zones = [
 export const faqs = [
   {
     "question": "Quanto costa un carroattrezzi a Napoli?",
-    "answer": "Il prezzo dipende da posizione, tipo e condizioni del mezzo, difficoltà di carico, orario e tragitto. Chiama 081 180 4692 e chiedi un preventivo con le voci incluse prima di confermare."
+    "answer": "Il prezzo dipende da posizione, tipo e condizioni del mezzo, difficoltà di carico, orario e tragitto. Chiama 081 1946 9839 e chiedi un preventivo con le voci incluse prima di confermare."
   },
   {
     "question": "Il soccorso stradale a Napoli è disponibile H24?",

@@ -5,7 +5,6 @@ export const site = {
     "tel":  "+3908119469839",
     "city":  "Napoli",
     "name":  "Carroattrezzi Napoli",
-    "address":  "Via Professor Filippo Manna, 7, 80013 Casalnuovo di Napoli NA",
     "title":  "Carroattrezzi a Napoli H24 | Soccorso stradale a Napoli",
     "phone":  "081 1946 9839",
     "email":  "assistenza@carroattrezzinapoli24.it"

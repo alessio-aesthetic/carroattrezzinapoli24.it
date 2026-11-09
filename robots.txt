@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carroattrezzinapoli24.it/sitemap.xml
